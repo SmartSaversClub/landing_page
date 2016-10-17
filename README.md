@@ -1,4 +1,11 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
+# SmartSaverss Landing Page
+
+This is a fork of the original bootstrap page. When making changes to push to github, be sure down download the gh-pages branch and work off of that.
+You can do that like this:
+
+`git pull origin gh-pages:gh-pages`
+
+## [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
